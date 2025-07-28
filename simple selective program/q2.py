@@ -1,0 +1,1 @@
+#Write a program to read a character and display its ASCII code
